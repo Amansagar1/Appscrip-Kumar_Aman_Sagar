@@ -6,12 +6,12 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Appscrip | Project - Kumar Aman Sagar",
-  description: "Appscrip offers cutting-edge web and app development solutions tailored to your business needs. Crafted by Kumar Aman Sagar.",
-  keywords: "Appscrip, Next.js, React, Web Development, App Development, Mobile Apps, Software Solutions",
+  description: "Appscrip-project created by Kumar Aman Sagar.",
+  keywords: "Appscrip, Next.js, React, Web Development, App Development, Mobile Apps, Software Solutions, Kumar Aman Sagar, Appscrip-project, Kumar Aman Sagar",
   authors: [{ name: "Kumar Aman Sagar", url: "https://myresumewebpage-github-io-4iks.vercel.app/" }],
   openGraph: {
     title: "Appscrip | Kumar Aman Sagar",
-    description: "Appscrip offers innovative software development services for startups and enterprises alike.",
+    description: " Appscrip-project created by Kumar Aman Sagar.",
     url: "https://appscrip.com", 
     siteName: "Appscrip",
     images: [
@@ -28,7 +28,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Appscrip | Kumar Aman Sagar",
-    description: "Appscrip offers cutting-edge software development services.",
+    description: "Appscrip-project created by Kumar Aman Sagar.",
     creator: "", 
     images: ["https://appscrip.com/twitter-card.jpg"], 
   },
