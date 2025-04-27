@@ -10,7 +10,7 @@ export const metadata = {
   keywords: "Appscrip, Next.js, React, Web Development, App Development, Mobile Apps, Software Solutions",
   authors: [{ name: "Kumar Aman Sagar", url: "https://myresumewebpage-github-io-4iks.vercel.app/" }],
   openGraph: {
-    title: "Appscrip | Innovative Web & App Development",
+    title: "Appscrip | Kumar Aman Sagar",
     description: "Appscrip offers innovative software development services for startups and enterprises alike.",
     url: "https://appscrip.com", 
     siteName: "Appscrip",
@@ -27,7 +27,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Appscrip | Innovative Web & App Development",
+    title: "Appscrip | Kumar Aman Sagar",
     description: "Appscrip offers cutting-edge software development services.",
     creator: "", 
     images: ["https://appscrip.com/twitter-card.jpg"], 
